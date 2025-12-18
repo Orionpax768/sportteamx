@@ -190,9 +190,7 @@ namespace SportTeam
 
 
 
-Вот код без комментариев:
 
-```csharp
 using System;
 using System.Linq;
 
@@ -386,4 +384,3 @@ namespace SportTeam
         }
     }
 }
-```
